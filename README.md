@@ -1,4 +1,4 @@
-# Automated Storage for CoexBuster
+# Automated Storage
 
 ## Commands
 
